@@ -31,4 +31,4 @@ El uso de inteligencia artificial facilitó el aprendizaje práctico, permitió 
 Además, mejora la productividad y apoya el proceso creativo del desarrollador.
 
 ## Enlace a la aplicación publicada
-(Colocar aquí la URL de Firebase Hosting luego del deploy)
+(https://proyectos-tecnologicos-erick.web.app/)
