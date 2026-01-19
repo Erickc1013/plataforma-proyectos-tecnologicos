@@ -1,16 +1,34 @@
-# React + Vite
+#Prueba Parcial Nº2
+#Erick Alexander Cueva Maza
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Plataforma de Proyectos Tecnológicos
 
-Currently, two official plugins are available:
+## Descripción
+Aplicación web desarrollada con React que permite visualizar, organizar y filtrar proyectos tecnológicos realizados por estudiantes o investigadores, mediante una interfaz moderna e interactiva.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades
+- Vista informativa del sistema.
+- Catálogo de proyectos tecnológicos.
+- Filtros dinámicos por área.
+- Interfaz interactiva sin recarga de página.
+- Diseño moderno basado en tarjetas.
 
-## React Compiler
+## Tecnologías utilizadas
+- React (Vite)
+- JavaScript
+- CSS
+- Firebase Hosting
+- Inteligencia Artificial (ChatGPT)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Uso de Inteligencia Artificial
+Se utilizó ChatGPT como herramienta de apoyo para:
+- Construir la lógica de filtrado de proyectos.
+- Diseñar la estructura del proyecto.
+- Crear estilos visuales con CSS.
 
-## Expanding the ESLint configuration
+## Reflexión sobre el uso de IA
+El uso de inteligencia artificial facilitó el aprendizaje práctico, permitió desarrollar más rápido la aplicación y ayudó a comprender mejor la estructura del código. 
+Además, mejora la productividad y apoya el proceso creativo del desarrollador.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Enlace a la aplicación publicada
+(Colocar aquí la URL de Firebase Hosting luego del deploy)
